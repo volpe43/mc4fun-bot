@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HesapAdi="UnioGuvenlik01"
+HesapAdi="Volpe"
 
 while true ; do
 echo "Başlatmayı engellemek için CTRL + C yapın."
