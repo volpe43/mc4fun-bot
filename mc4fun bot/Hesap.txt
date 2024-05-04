@@ -1,0 +1,6 @@
+send /login 6149841
+wait 3 seconds
+send /survival
+wait 3 seconds
+send /team home
+
